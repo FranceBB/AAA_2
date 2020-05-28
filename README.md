@@ -7,8 +7,7 @@ Requirements
 
 AviSynth 2.5.8 or later
 Progressive input only
-Supported color formats in version 0.1: YV12
-Supported color formats in version 0.2: YV12, YUY2, YV16, YV24
+Supported color formats: YV12, YUY2, YV16, YV24
 
 Required Plugins
 SangNom2
