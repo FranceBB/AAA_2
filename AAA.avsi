@@ -8,8 +8,8 @@
 # Creator: Soulhunter, Didée, mf, Akirasuto, SpikeSpiegel & ScharfisBrain
 # Version 0.2
 # Date 2020
-# Modified requirements from SangNom to SangNom2 (Francesco Bucciantini);
-# Introduced support to YUY2, yv16, yv24 (Francesco Bucciantini);
+# Modified requirements from SangNom to SangNom2 (Francesco Bucciantini aka FranceBB);
+# Introduced support to YUY2, yv16, yv24 (Francesco Bucciantini aka FranceBB);
 #________________________________________________________________________________________
 #
 # Usage: AAA(Xres, Yres, Xshrp, Yshrp, Us, Ds, chroma)
