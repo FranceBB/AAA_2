@@ -3,7 +3,7 @@
 <br>
 It was originally made by Soulhunter with the help of Didée, mf, Akirasuto, SpikeSpiegel & ScharfisBrain.
 <br>
-It has then been modified by FranceBB to add YV12, YUY2, YV16, YV24 support (v0.2)
+It has then been modified by Francesco Bucciantini (FranceBB) to add YV12, YUY2, YV16, YV24 support (v0.2)
 <br>
 <br>
 <br>
